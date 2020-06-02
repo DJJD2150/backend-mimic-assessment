@@ -19,7 +19,7 @@ You can try adding in line breaks around 70 columns so the output looks
 better.
 """
 
-__author__ = "DJJD2150, Jaspal Singh, Tiffany McLean"
+__author__ = "DJJD2150, Jaspal Singh, Tiffany McLean, Janell Huyck"
 
 import random
 import sys
